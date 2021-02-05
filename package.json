@@ -1,0 +1,20 @@
+{
+  "name": "devsindev-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node seed.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "follow-redirects": "^1.13.2",
+    "form-data": "^3.0.0",
+    "image-downloader": "^4.0.2"
+  }
+}
